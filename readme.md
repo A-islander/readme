@@ -10,9 +10,9 @@
 
 ## 项目状态
 1. 用户系统（开发完毕，迭代中）[地址](https://github.com/A-islander/islander-user-system)
-2. 论坛系统（开发中）
+2. 论坛系统（开发完毕，迭代中）[地址](https://github.com/A-islander/islander-forum-system)
 3. 串保存系统（开发完毕，迭代中）[地址](https://github.com/A-islander/islander-backup-system)
-4. 岛网页前端（新建文件夹中）
+4. 岛网页前端（开发完毕，迭代中）[地址](https://github.com/A-islander/islander-vue-web)
 
 ## 新增机制
 1. 每日备份/火种机制  
